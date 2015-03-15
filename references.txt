@@ -1,0 +1,10 @@
+References:
+1. https://developer.mozilla.org/en-US/docs/Web/JavaScript
+2. Udacity class forums (very helpful resource)
+3. www.w3schools.com/
+4. https://developers.google.com/web/fundamentals/performance/index?hl=en
+5. https://github.com/leiz2010/udportfolio
+6. https://github.com/ValiaL/frontend-nanodegree-mobile-portfolio
+7. http://scottyoon221.github.io/optimization/views/pizza.html
+8. https://jsperf.com/getelementsbyclassname-vs-queryselectorall/15
+9. https://css-tricks.com/

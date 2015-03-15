@@ -28,11 +28,15 @@ form {
 #pizzaSize {
   font-weight: 800;
 }
-
+/* Changed .mover*/
 .mover {
   position: fixed;
   width: 256px;
   z-index: -1;
+  /*Improve layering*/
+  -webkit-backface-visibility: hidden;
+  -webkit-perspective: 1000;
+
 }
 
 .randomPizzaContainer {
